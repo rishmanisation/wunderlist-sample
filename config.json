@@ -1,0 +1,8 @@
+{
+    "authentication_url" : "https://www.wunderlist.com/oauth/authorize?client_id=%s&redirect_uri=%s&response_type=code&state=bubbles",
+    "callback_url" : "http://127.0.0.1:5000/callback/wunderlist",
+    "token_url" : "https://www.wunderlist.com/oauth/access_token",
+    "client_id" : "3e0c7482677f01cce351",
+    "client_secret" : "b17a1d9fcf4bf6c333ce940b84a418087d3e28b855507eac9031114993e7",
+    "redirect" : "user_info"
+}
